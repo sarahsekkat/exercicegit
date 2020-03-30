@@ -1,1 +1,4 @@
-salaire/
+/salaire/
+# pour un dossier on ajoute / à la fin ca nous permet de prendre en compte le dossier
+/poste.txt
+# ajout fichier sans apparaitre dans hithub
